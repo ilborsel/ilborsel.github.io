@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ilborsel.github.io/sitemap
+Sitemap: https://ilborsel.github.io/app/sitemap
+Sitemap: https://ilborsel.github.io/assets/sitemap
+Sitemap: https://ilborsel.github.io/css/sitemap
+Sitemap: https://ilborsel.github.io/includes/sitemap
+Sitemap: https://ilborsel.github.io/item/sitemap
+Sitemap: https://ilborsel.github.io/src/sitemap
